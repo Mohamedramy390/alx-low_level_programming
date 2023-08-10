@@ -1,5 +1,5 @@
 #include <stdio.h>
-/**
+/*
  * main - prints the value in puts
  */
 int main(void)
