@@ -12,6 +12,6 @@ int main(void)
 		putchar(num + 97);
 		num++;
 	}
-putchar('\n');	
+putchar('\n');
 return (0);
 }
