@@ -6,8 +6,8 @@
 /* betty style doc for function main goes there */
 /**
  * main - print status of number
- * Return: 0 (success
- */)
+ * Return: 0 (success)
+ */
 int main(void)
 {
 	int n;
