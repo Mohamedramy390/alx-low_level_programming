@@ -7,7 +7,7 @@ int main(void)
 {
 	int num = 0;
 
-	while (num + 97 < 122)
+	while (num + 97 <= 122)
 	{
 		putchar(num + 97);
 		num++;
