@@ -20,6 +20,6 @@ putchar(num2 + 65);
 num2++;
 }
 }          }
-putchar('\n')
+putchar('\n');
 return (0);
 }
