@@ -25,7 +25,7 @@ if (i * i == n)
 {
 return (i);
 }
-else if (i < n)
+else if (i * i < n)
 {
 square(n, i + 1);
 }
@@ -33,5 +33,4 @@ else
 {
 return (-1);
 }
-return (0);
 }
