@@ -9,7 +9,7 @@
 char *_strdup(char *str)
 {
 	int size = 0, i = 0;
-	char* m;
+	char *m;
 
 	if (str == 0)
 		return (NULL);
@@ -22,7 +22,8 @@ char *_strdup(char *str)
 	if (m == 0)
 	{
 		return (NULL);
-	} else 
+	}	
+	else
 	{
 		for (; i < size; i++)
 			m[i] = str[i];
